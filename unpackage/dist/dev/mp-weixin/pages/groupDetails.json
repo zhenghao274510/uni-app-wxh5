@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "group-scoll-x": "/components/mycom/goodWorkers",
+    "group-send": "/components/mycom/groupSend"
+  }
+}

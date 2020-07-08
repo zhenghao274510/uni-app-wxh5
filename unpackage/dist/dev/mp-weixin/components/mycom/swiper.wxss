@@ -1,0 +1,26 @@
+
+.swiper-content.data-v-bbaa8d1e {
+	position: relative;
+}
+.uni-icon-location-filled.data-v-bbaa8d1e {
+	color: #FFFFFF;
+	font-size: 28rpx;
+}
+.img.data-v-bbaa8d1e {
+	width: 50rpx;
+	height: 50rpx;
+}
+.swiper.data-v-bbaa8d1e {
+	width: 100%;
+	height:338rpx;
+}
+.swiper-item.data-v-bbaa8d1e {
+	width: 100%;
+	display: block;
+}
+.swiper-item ._img.data-v-bbaa8d1e {
+	width: 100%;
+	display: block;
+	height:338rpx;
+}
+

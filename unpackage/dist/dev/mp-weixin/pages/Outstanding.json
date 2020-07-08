@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "优秀员工",
+  "usingComponents": {
+    "banner-swiper": "/components/mycom/swiper"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="message-details-con data-v-d29b6ca0"><view class="message-title data-v-d29b6ca0">{{''+title+''}}</view><view class="message-time data-v-d29b6ca0">{{'发布时间：'+date+''}}</view><view class="message-name data-v-d29b6ca0">消息内容</view><view class="message-content data-v-d29b6ca0"><rich-text nodes="{{content}}" class="data-v-d29b6ca0"></rich-text></view></view>

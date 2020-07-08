@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "公司",
+  "usingComponents": {
+    "group-list": "/components/mycom/groupList",
+    "nav-title": "/components/mycom/nav",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

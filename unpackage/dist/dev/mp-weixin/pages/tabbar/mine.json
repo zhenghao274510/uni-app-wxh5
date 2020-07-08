@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "cell-icon-list": "/components/mycom/cellIconList",
+    "tki-qrcode": "/components/tki-qrcode/tki-qrcode"
+  }
+}

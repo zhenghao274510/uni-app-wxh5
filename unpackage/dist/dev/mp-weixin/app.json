@@ -1,0 +1,67 @@
+{
+  "pages": [
+    "pages/tabbar/home",
+    "pages/resgin/index",
+    "pages/tabbar/group",
+    "pages/tabbar/message",
+    "pages/tabbar/mine",
+    "pages/groupDetails",
+    "pages/zhiweiDetails",
+    "pages/groupInfo",
+    "pages/myStore",
+    "pages/myActive",
+    "pages/mybiographical",
+    "pages/befault",
+    "pages/userName",
+    "pages/mysalary",
+    "pages/mybonus",
+    "pages/mySetUp",
+    "pages/personInfo",
+    "pages/Outstanding",
+    "pages/choseClass",
+    "pages/messageDetails",
+    "pages/downLoad",
+    "pages/webView"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "就业码",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#131313",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home",
+        "iconPath": "static/tabs/zhiwei(moren).png",
+        "selectedIconPath": "static/tabs/zhiwei.png",
+        "text": "职位"
+      },
+      {
+        "pagePath": "pages/tabbar/group",
+        "iconPath": "static/tabs/gongsi(moren).png",
+        "selectedIconPath": "static/tabs/gongsi.png",
+        "text": "公司"
+      },
+      {
+        "pagePath": "pages/tabbar/message",
+        "iconPath": "static/tabs/xiaoxi(moren).png",
+        "selectedIconPath": "static/tabs/xiaoxi.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/tabbar/mine",
+        "iconPath": "static/tabs/me(moren).png",
+        "selectedIconPath": "static/tabs/me.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap59.json"
+}

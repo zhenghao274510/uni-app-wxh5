@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "公司信息",
+  "usingComponents": {
+    "group-nav": "/components/mycom/groupNav",
+    "group-info-list": "/components/mycom/groupInfoList"
+  }
+}

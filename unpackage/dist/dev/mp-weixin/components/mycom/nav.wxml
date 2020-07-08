@@ -1,0 +1,1 @@
+<view class="list-con d-flex d-items-center one data-v-60a7bb7a"><block wx:for="{{dataList}}" wx:for-item="v" wx:for-index="k" wx:key="k"><view data-event-opts="{{[['tap',[['onClick',['$0',k],[[['dataList','',k]]]]]]]}}" class="{{['list-con-item data-v-60a7bb7a',(currentIndex==k)?'active':'']}}" bindtap="__e">{{''+v.value+''}}</view></block></view>

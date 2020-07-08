@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的简历",
+  "usingComponents": {
+    "xfl-select": "/components/xfl-select/xfl-select",
+    "mpvue-city-picker": "/components/mpvue-citypicker/mpvueCityPicker",
+    "w-picker": "/components/w-picker/w-picker",
+    "m-picker": "/components/w-picker/sb-picker"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="person-con data-v-79ba0998"><image class="person-img data-v-79ba0998" src="/static/test.png" mode></image><view class="d-flex d-between d-items-center person-pad  data-v-79ba0998"><view class="person-name data-v-79ba0998">姓名</view><view class="person-nike data-v-79ba0998">{{''+nickeName+''}}</view></view></view>

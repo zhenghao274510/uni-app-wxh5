@@ -1,0 +1,1 @@
+<view class="workers_con data-v-ba12f056"><banner-swiper vue-id="1" dataList="{{imgList}}" class="data-v-ba12f056" bind:__l="__l"></banner-swiper><view class="workers_desc data-v-ba12f056">{{''+content+''}}</view></view>

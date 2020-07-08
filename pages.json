@@ -1,0 +1,185 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/resgin/index"
+		},
+		{
+			"path": "pages/tabbar/home",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/resgin/shareLogin",
+			"style": {
+				"navigationBarTitleText": "授权登录"
+			}
+		},
+		{
+			"path": "pages/tabbar/group",
+			"style": {
+				"navigationBarTitleText": "公司"
+			}
+		},
+		{
+			"path": "pages/tabbar/message",
+			"style": {
+				"navigationBarTitleText": "消息"
+			}
+		},
+		{
+			"path": "pages/tabbar/mine",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/zhiweiDetails",
+			"style": {
+				"navigationBarTitleText": "职位信息"
+			}
+		},
+		{
+			"path": "pages/groupInfo",
+			"style": {
+				"navigationBarTitleText": "公司信息"
+			}
+		},
+		{
+			"path": "pages/myStore",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+			"path": "pages/yulan",
+			"style": {
+				"navigationBarTitleText": "文件预览"
+			}
+		},
+		{
+			"path": "pages/textView",
+			"style": {
+				"navigationBarTitleText": "就业码"
+			}
+		},
+		{
+			"path": "pages/myActive",
+			"style": {
+				"navigationBarTitleText": "我的求职"
+			}
+		},
+		{
+			"path": "pages/mybiographical",
+			"style": {
+				"navigationBarTitleText": "我的简历"
+			}
+		},
+		{
+			"path": "pages/befault",
+			"style": {
+				"navigationBarTitleText": "一句话优点"
+			}
+		},
+		{
+			"path": "pages/userName",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/mysalary",
+			"style": {
+				"navigationBarTitleText": "我的薪资"
+			}
+		},
+		{
+			"path": "pages/mybonus",
+			"style": {
+				"navigationBarTitleText": "我的推荐奖金"
+			}
+		},
+		{
+			"path": "pages/mySetUp",
+			"style": {
+				"navigationBarTitleText": "我的设置"
+			}
+		},
+		{
+			"path": "pages/personInfo",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/Outstanding",
+			"style": {
+				"navigationBarTitleText": "优秀员工"
+			}
+		},
+		{
+			"path": "pages/choseClass",
+			"style": {
+				"navigationBarTitleText": "选择职业"
+			}
+		},
+		{
+			"path": "pages/messageDetails",
+			"style": {
+				"navigationBarTitleText": "消息详情"
+			}
+		},
+		{
+			"path": "pages/downLoad",
+			"style": {
+				"navigationBarTitleText": "附件简历"
+			}
+		},
+		{
+			"path": "pages/webView",
+			"style": {
+				"navigationBarTitleText": "文件管理"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#131313",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/tabbar/home",
+				"iconPath": "static/tabs/zhiwei(moren).png",
+				"selectedIconPath": "static/tabs/zhiwei.png",
+				"text": "职位"
+			},
+			{
+				"pagePath": "pages/tabbar/group",
+				"iconPath": "static/tabs/gongsi(moren).png",
+				"selectedIconPath": "static/tabs/gongsi.png",
+				"text": "公司"
+			},
+			{
+				"pagePath": "pages/tabbar/message",
+				"iconPath": "static/tabs/xiaoxi(moren).png",
+				"selectedIconPath": "static/tabs/xiaoxi.png",
+				"text": "消息"
+			},
+			{
+				"pagePath": "pages/tabbar/mine",
+				"iconPath": "static/tabs/me(moren).png",
+				"selectedIconPath": "static/tabs/me.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "就业码",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"h5": {
+			"titleNView": false
+		}
+	}
+}

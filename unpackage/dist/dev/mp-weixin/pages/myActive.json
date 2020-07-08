@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的求职",
+  "usingComponents": {
+    "uni-steps": "/components/uni-steps/uni-steps",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "empty": "/components/mycom/empty"
+  }
+}

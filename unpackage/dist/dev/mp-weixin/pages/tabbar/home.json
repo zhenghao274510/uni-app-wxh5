@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "banner-swiper": "/components/mycom/swiper",
+    "com-list": "/components/mycom/list",
+    "nav-title": "/components/mycom/nav",
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

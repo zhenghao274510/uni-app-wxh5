@@ -6,7 +6,7 @@
     "jspdf": "^1.5.3",
     "jweixin-module": "^1.6.0",
     "pdfobject": "^2.1.1",
-    "plupload": "^2.3.6",
+    "plupload": "^2.3.9",
     "qqmap": "^1.0.1",
     "tki-qrcode": "^0.1.6",
     "vue-jsonp": "^0.1.8"
